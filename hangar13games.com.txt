@@ -1,0 +1,5 @@
+http://autodiscover.hangar13games.com [301] [https://outlook.office365.com/owa/?realm=hangar13games.com&vd=autodiscover] []
+https://www.hangar13games.com [200] [] [Hangar 13 Games]
+https://hangar13games.com [200] [] [Hangar 13 Games]
+https://sip.hangar13games.com [404] [] []
+https://lyncdiscover.hangar13games.com [200] [] []

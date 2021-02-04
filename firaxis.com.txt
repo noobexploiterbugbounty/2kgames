@@ -1,0 +1,7 @@
+http://autodiscover.firaxis.com [301] [https://outlook.office365.com/owa/?realm=firaxis.com&vd=autodiscover] []
+https://firaxis.com [200] [] [Firaxis.com]
+http://prod.xcom.firaxis.com [500] [] [Runtime Error]
+http://prod.xcom-ew.firaxis.com [500] [] [Runtime Error]
+https://www.firaxis.com [200] [] [Firaxis.com]
+https://sip.firaxis.com [404] [] []
+https://lyncdiscover.firaxis.com [200] [] []

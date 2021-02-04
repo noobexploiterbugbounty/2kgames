@@ -1,0 +1,6 @@
+https://buy-int.civilization.com [403] [] []
+https://buy.civilization.com [301] [https://store.2k.com/civilization] []
+https://buy-stage.civilization.com [403] [] []
+https://lighthouse.civilization.com [200] [] [Welcome to nginx!]
+https://civilization.com [200] [] [Civilization® VI – The Official Site]
+https://www.civilization.com [200] [] [Civilization® VI – The Official Site]

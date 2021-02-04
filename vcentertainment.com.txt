@@ -1,0 +1,5 @@
+http://autodiscover.vcentertainment.com [301] [https://outlook.office365.com/owa/?realm=vcentertainment.com&vd=autodiscover] []
+https://vcentertainment.com [200] [] [Visual Concepts]
+https://www.vcentertainment.com [200] [] [Visual Concepts]
+https://sip.vcentertainment.com [404] [] []
+https://lyncdiscover.vcentertainment.com [200] [] []

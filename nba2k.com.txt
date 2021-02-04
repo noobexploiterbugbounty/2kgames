@@ -1,0 +1,4 @@
+https://game-services.nba2k.com [200] [] [NBA2K]
+https://www.nba2k.com [200] [] [NBA2K]
+https://media.nba2k.com [200] [] [NBA2K]
+https://nba2k.com [301] [http://www.nba2k.com/] [Redirecting...]
